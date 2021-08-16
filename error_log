@@ -1,0 +1,2 @@
+[07-Jul-2020 13:38:19 Africa/Abidjan] PHP Fatal error:  Call to a member function row() on boolean in /home2/fzresult/public_html/techmins.co/app/core/MY_Model.php on line 64
+[07-Jul-2020 14:15:53 Africa/Abidjan] PHP Fatal error:  Call to a member function row() on boolean in /home2/fzresult/public_html/techmins.co/app/core/MY_Model.php on line 64
